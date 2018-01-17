@@ -92,5 +92,3 @@ licorData =
 #---------------------------------------------
 
 rm(licorRawData, fluxData, metaData)
-
-
